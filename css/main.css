@@ -1,0 +1,14 @@
+.start {
+    margin-right: auto;
+    width: 500px;
+    margin-left: auto;
+    height: 200px;
+}
+.result {
+    margin-bottom: 200px;
+}
+.pagination {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
